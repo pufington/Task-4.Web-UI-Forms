@@ -52,4 +52,3 @@ function ServerTable({ servers, onDelete }) {
 
 export default ServerTable;
 
-// Code Written by @Arpit Singh - 19BCG10069
